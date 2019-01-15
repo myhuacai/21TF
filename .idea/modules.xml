@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/21TF.iml" filepath="$PROJECT_DIR$/.idea/21TF.iml" />
+      <module fileurl="file://E:\pythonproject\Mypython_test\.idea\Mypython_test.iml" filepath="E:\pythonproject\Mypython_test\.idea\Mypython_test.iml" />
+    </modules>
+  </component>
+</project>
